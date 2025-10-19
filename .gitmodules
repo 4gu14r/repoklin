@@ -1,0 +1,6 @@
+[submodule "srvback"]
+	path = srvback
+	url = https://github.com/4gu14r/srvback.git
+[submodule "appfront"]
+	path = appfront
+	url = https://github.com/4gu14r/appfront.git
